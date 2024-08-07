@@ -2,3 +2,4 @@ quay.io/metallb/controller:v0.14.8
 quay.io/metallb/speaker:v0.14.8
 registry.k8s.io/ingress-nginx/controller:v1.11.1
 registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.4.1
+rancher/rancher:v2.8.5
