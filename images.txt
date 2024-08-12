@@ -8,4 +8,6 @@
 
 #rancher/mirrored-cluster-api-controller:v1.4.4
 
-rancher/fleet-agent:v1.20.2
+#rancher/fleet-agent:v1.20.2
+
+ctrox/csi-s3:v1.2.0-rc.2
