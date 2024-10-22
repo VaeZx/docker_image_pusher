@@ -1,1 +1,2 @@
 mysql:5.7
+docker pull openjdk:8-jre
