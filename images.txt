@@ -1,13 +1,1 @@
-#quay.io/metallb/controller:v0.14.8
-#quay.io/metallb/speaker:v0.14.8
-#registry.k8s.io/ingress-nginx/controller:v1.11.1
-#registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.4.1
-#rancher/rancher:v2.8.5
-
-#rancher/shell:v0.1.24
-
-#rancher/mirrored-cluster-api-controller:v1.4.4
-
-#rancher/fleet-agent:v1.20.2
-
-ctrox/csi-s3:v1.2.0-rc.2
+mysql:5.7
