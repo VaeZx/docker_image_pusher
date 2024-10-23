@@ -1,2 +1,3 @@
 mysql:5.7
 openjdk:8-jre
+npcfix:latest
