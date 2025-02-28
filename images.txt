@@ -1,1 +1,3 @@
-jenkins/jenkins:2.483
+# jenkins/jenkins:2.483
+confluentinc/cp-kafka:7.3.2
+confluentinc/cp-zookeeper:7.3.2
