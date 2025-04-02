@@ -3,4 +3,4 @@
 # confluentinc/cp-kafka:7.3.2
 # confluentinc/cp-zookeeper:7.3.2
 # mysql:8.0.29
-redis 5.0.13
+redis:5.0.13
