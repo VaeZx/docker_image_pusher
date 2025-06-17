@@ -8,4 +8,4 @@
 # nginx:1.24.0
 # clickhouse/clickhouse-server:24.5
 # emqx:5.8.6
-provectuslabs/kafka-ui:v0.23.0
+provectuslabs/kafka-ui:v0.72.0
