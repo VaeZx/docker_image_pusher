@@ -9,5 +9,6 @@
 # clickhouse/clickhouse-server:24.5
 # emqx:5.8.6
 # provectuslabs/kafka-ui:v0.7.2
-nacos/nacos-server:2.0.3
-seataio/seata-server:1.7.0
+# nacos/nacos-server:2.0.3
+# seataio/seata-server:1.7.0
+xuxueli/xxl-job-admin:2.4.0
