@@ -13,3 +13,4 @@
 # seataio/seata-server:1.7.0
 # xuxueli/xxl-job-admin:2.4.0
 tdengine/tsdb:3.4.2.8
+php:8.5-apache
